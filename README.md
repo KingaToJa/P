@@ -1,2 +1,4 @@
 # P
-Projekt zaliczeniowy - zniechęcona problemami dla private
+This is a repository made in a purpose of final project for Data Science Bootcamp
+
+Business case: Company I am working for since several years is a leading leasing company. We have to have good and comprehensive offer for customers but at the same time we have to continiusly improve our processes. Having fast credit decision makes us more prone to be chosen by customers. Company implemented automatic desision process seveal years ago, starting with most standaraised products (leasing for a nwe car) and currently having seveal different product and customer types covered. But there is still place for improvement. Generaly transaction can be approved automaticaly if at least several condistions are fulfield: credit scoring is acceptable, policy criteria are met, there is not fraud warrings and customer has more or less "standard" profile. If transaction is not approved automaticaly, then there are 2 possible paths: rejection or going for manual analysis. This project is focused on investigate these transacions which went through manual analysis.
